@@ -1,2 +1,2 @@
-# My-First-Program-Calculator-
-Different types of Calculator Codes
+# My-First-Program-Calculator
+This Repository contains different types of Calculator Codes, each having different limits.
